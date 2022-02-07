@@ -1,0 +1,5 @@
+   <table>
+      <tr><td>John</td><td>Laura</td><td></td></tr>
+      <tr><td>Rose</td><td>Carly</td><td></td></tr>
+   </table>
+Table Utilization: 66.67
