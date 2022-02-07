@@ -1,0 +1,4 @@
+Sorted linked list after adding all elements where the first element added is 
+greater than the second element: Cat Cat Deer Dog Rabbit
+Sorted linked list after adding all elements where the first element added is 
+less than the second element: Bear Cat Cat Deer Rabbit

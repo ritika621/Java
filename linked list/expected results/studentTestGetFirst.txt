@@ -1,0 +1,4 @@
+Linked list after adding all elements: Rabbit Dog Cat Deer
+First element: Rabbit
+Returning the first element after removing all elements from the list: null
+Returning the first element from an empty list: null

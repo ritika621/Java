@@ -1,0 +1,6 @@
+Size of the linked list: 4
+Size of the linked list after removing 2 elements: 2
+Size of the linked list after retrieving the first element: 1
+Size of the linked list after retrieving the last element: 0
+Size of the linked list after the list is empty: 0
+Size of the an empty linked list: 0

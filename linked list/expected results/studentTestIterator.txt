@@ -1,0 +1,1 @@
+Linked list after adding all elements: Cat Rabbit Dog Cat Deer

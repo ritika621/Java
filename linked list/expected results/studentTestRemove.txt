@@ -1,0 +1,4 @@
+Linked list after adding all elements: Cat Rabbit Dog Cat Deer Cat
+Linked list after removing one element (Dog) from the list: Cat Rabbit Cat Deer Cat
+Linked list after removing several elements (Cat) from the list: Rabbit Deer
+List after removing an element from an empty list:

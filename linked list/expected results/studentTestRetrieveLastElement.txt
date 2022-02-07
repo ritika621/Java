@@ -1,0 +1,5 @@
+Linked list after adding all elements: Rabbit Dog Cat Deer
+Retrieve last element: Deer
+Linked list after retrieving the last element: Rabbit Dog Cat
+Retrieving the last element after removing all elements from the list: null
+Retrieving the last element from an empty list: null

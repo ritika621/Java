@@ -1,0 +1,3 @@
+Linked list after adding all elements to the end: Dog Cat Rabbit Cat
+Linked list after removing all the elements:
+Linked list after adding elements to the end again: Zebra Giraffe Elephant

@@ -1,0 +1,3 @@
+Linked list after adding all elements: Cat Rabbit Dog Cat Deer
+Linked list after reversing the list as an array list: [Deer, Cat, Dog, Rabbit, Cat]
+Linked list after reversing an empty list as an array list: []
